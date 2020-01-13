@@ -1,2 +1,2 @@
-# tulane-r306
-Medical Needs Sheltering Repo
+# tulane-DWMasterCourse
+This repository is a template repository for all Dreamweaver (DW) course spaces.
